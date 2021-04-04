@@ -3,7 +3,7 @@
 using namespace std;
 
 
-int BoxVolume(int length=1, int width=1, int height=1);
+int BoxVolume(int length=2, int width=1, int height=1);
 
 int main()
 {
